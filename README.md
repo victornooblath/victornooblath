@@ -1,7 +1,7 @@
 ### Olá, me chamo Victor Nooblath! Sou Estudante de programação e cybersecurity.
 
 - 🔭 Atualmente estou desempregado, apenas estudando
-- 🌱 Estudando Cybersecurity | Node.js | JavaScript
+- 🌱 Estudando Cybersecurity |
 - 📫 Contate-me no email: victornooblath@gmail.com
 - 😄 Pronouns: ele/dele
   ##
